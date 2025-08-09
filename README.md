@@ -14,26 +14,26 @@
   
 
 ### Project Description
-[THE PROJECT IS ABOUT MAKING THE EYE STRAIN .IT IS NOT MADE FOR THE COMMON PEOPLE .MAINTL]
+[THE PROJECT IS ABOUT MAKING THE EYE STRAIN .IT IS NOT MADE FOR THE COMMON PEOPLE .MAINTLY USED FOR THE PHSYCO PATHS IN ANYWHERE IN THE COUNTRY. ]
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+#  ## The Problem (that doesn't exist)
+[TO MAKE THE ABNORMAL PERSONS TO NORMAL PROCESS IN CASE OF MEDICAL FIELD SOME CASES WILL CURE BY GIVING HIGH STRAIN FOR THE EYE . ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[CREATES THE ABNORMAL MOVEMENT THROUNG EYE AND THE PERSON FEELS GOOD .ESPECIALY IT IS UDED FOR THE UBNORMAL PERSONS SITUVATED ACROSS THE WORD.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [ARDUINO LANGAUAGE]
+- [ARDUINO ,GEAR MOTOR ,GYPSUM BOARD ,BREAD BOARD ,ETC]
+- [ ARDUINO]
+- [HACKSAW ,GLUS,KNIFE,SCREW DRIVER ,ETC]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [ARDINO BOARD ,UNO BREAD BOARD ,LAPTOP,GEAR MOTOR]
+- [ARDIDUNO UNO ],SG90 MOTOR
+- [CONNECTING WIRES ,SCREWDRIVER HACKSAW BLADE]
 
 ### Implementation
 For Software:
