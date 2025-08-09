@@ -47,33 +47,33 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/file/d/1tnJNAm2hCP3Y_3eMyhYqWbe9WXFPcCmG/view?usp=drivesdk](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/file/d/1tmUfYafoLvkUlGicmw_plE8jxUkg6lcG/view?usp=drivesdk2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![](https://drive.google.com/file/d/1ti2rfKnWNTxj58pdxRIqr_6OhThmR6hk/view?usp=drivesdk)
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+!https://drive.google.com/file/d/1tfuRxEaQzmMrpZW3DA0l1mBTfh__ytZf/view?usp=drivesdk](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+![https://drive.google.com/file/d/1tfuRxEaQzmMrpZW3DA0l1mBTfh__ytZf/view?usp=drivesdk](Add your circuit diagram here)
 *Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
+![https://drive.google.com/file/d/1tfuRxEaQzmMrpZW3DA0l1mBTfh__ytZf/view?usp=drivesdk](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
+![https://drive.google.com/file/d/1tfuRxEaQzmMrpZW3DA0l1mBTfh__ytZf/view?usp=drivesdk](Add photo of your components here)
 *List out all components shown*
 
-![Build](Add photos of build process here)
+![https://drive.google.com/file/d/1tfuRxEaQzmMrpZW3DA0l1mBTfh__ytZf/view?usp=drivesdk](Add photos of build process here)
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
@@ -81,16 +81,14 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1tnJNAm2hCP3Y_3eMyhYqWbe9WXFPcCmG/view?usp=drivesdk]
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+[https://drive.google.com/file/d/1tnJNAm2hCP3Y_3eMyhYqWbe9WXFPcCmG/view?usp=drivesdk]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- (https://drive.google.com/file/d/1tnJNAm2hCP3Y_3eMyhYqWbe9WXFPcCmG/view?usp=drivesdk)
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
